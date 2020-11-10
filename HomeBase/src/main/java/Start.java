@@ -231,18 +231,18 @@ public class Start extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void LoginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_LoginActionPerformed
+   private void LoginActionPerformed(java.awt.event.ActionEvent evt) {                                      
         // TODO add your handling code here:
-    }//GEN-LAST:event_LoginActionPerformed
+    }                                     
 
-    private void SignupActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SignupActionPerformed
+    private void SignupActionPerformed(java.awt.event.ActionEvent evt) {                                       
         // TODO add your handling code here:
-    }//GEN-LAST:event_SignupActionPerformed
+    }                                      
 
-    private void CloseMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_CloseMouseClicked
+    private void CloseMouseClicked(java.awt.event.MouseEvent evt) {                                   
         // TODO add your handling code here:
         System.exit(0);
-    }//GEN-LAST:event_CloseMouseClicked
+    }                    
 
     private void MaximizeMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_MaximizeMouseClicked
         // TODO add your handling code here:
